@@ -13,95 +13,94 @@ class HomePage extends Component {
       classOnTable: [[], [], [], [], []],
       subject: [
         { 
-          courseNo: '0295101', 
-          name: 'Intro to Data Sci', 
+          courseNo: '2110202', 
+          name: 'DISCRETE STRUC COM', 
           time: [
-            { start: 1300, end: 1600, day: 5 }, 
+            { start: 800, end: 1000, day: 2 },
+            { start: 800, end: 1000, day: 4 },  
           ],
           index: 0,
           onList: false,
         },
         { 
-          courseNo: '2301108', 
-          name: 'Calculus II', 
+          courseNo: '2110211', 
+          name: 'INTRO DATA STRUCT', 
           time: [
-            { start: 800, end: 950, day: 1 }, 
-            { start: 950, end: 1100, day: 3 }
+            { start: 1000, end: 1200, day: 1 }, 
+            { start: 1000, end: 1200, day: 4 }
           ],
           index: 1,
           onList: false,
         }, { 
-          courseNo: '2304104',
-          name: 'Gen Phy II ',
+          courseNo: '2110215',
+          name: 'PROG METH I',
           time: [
-            { start: 950, end: 1100, day: 1 },
-            { start: 800, end: 950, day: 5 },
+            { start: 900, end: 1200, day: 5 },
           ], 
           index: 2,
           onList: false,
         }, { 
-          courseNo: '2304184', 
-          name: 'Gen Phy Lab II',
+          courseNo: '2110221', 
+          name: 'COMP ENG ESS',
           time: [
-            { start: 1300, end: 1600, day: 1 },
+            { start: 950, end: 1250, day: 3 },
           ],  
           index: 3,
           onList: false,
         }, { 
-          courseNo: '2109101', 
-          name: 'Eng Materials',
+          courseNo: '2110355', 
+          name: 'FORM LANG/AUTO',
           time: [
             { start: 1100, end: 1250, day: 2 },
-            { start: 800, end: 950, day: 3 },
+            { start: 1100, end: 1250, day: 4 },
           ],  
           index: 4,
           onList: false,
         }, { 
-          courseNo: '2110101', 
-          name: 'Comp Prog', 
+          courseNo: '2110423', 
+          name: 'SOFTWARE ENG', 
           time: [
-            { start: 800, end: 1100, day: 2 },
+            { start: 950, end: 1100, day: 2 },
+            { start: 950, end: 1100, day: 4 },
           ],  
           index: 5,
           onList: false,
         }, { 
-          courseNo: '5500112', 
-          name: 'Exp Eng II', 
+          courseNo: 'XXXXXXXXX', 
+          name: 'CLOUD TECH', 
           time: [
-            { start: 950, end: 1100, day: 3 },
+            { start: 1300, end: 1600, day: 3 },
           ], 
           index: 6,
           onList: false,
         }, { 
-          courseNo: '2100111', 
-          name: 'Expl Eng World', 
+          courseNo: 'XXXXXXXX', 
+          name: 'AI 2', 
           time: [
-            { start: 950, end: 1250, day: 5 },
+            { start: 900, end: 1200, day: 5 },
           ], 
           index: 7,
           onList: false,
         }, { 
-          courseNo: '2110594', 
-          name: 'Adv Top Comp IV', 
+          courseNo: 'XXXXXXXX', 
+          name: 'DATA WAREHOUSE', 
           time: [
-            { start: 900, end: 1200, day: 1 },
+            { start: 1300, end: 1600, day: 2 },
           ], 
           index: 8,
           onList: false,
         }, { 
-          courseNo: '2110471', 
-          name: 'Comp Network I', time: [
-            { start: 1300, end: 1500, day: 2 },
-            { start: 950, end: 1150, day: 3 },
+          courseNo: 'XXXXXXXX', 
+          name: 'PHOTO SCI', time: [
+            { start: 1300, end: 1600, day: 5 },
           ], 
           index: 9,
           onList: false,
         }, { 
-          courseNo: '2110332', 
-          name: 'Sys Analysis Dsgn',
+          courseNo: 'XXXXXXXX', 
+          name: 'GENETIC FOR LIFE',
           time: [
-            { start: 950, end: 1100, day: 2 },
-            { start: 950, end: 1100, day: 4 },
+            { start: 1300, end: 1600, day: 4 },
           ], 
           index: 10,
           onList: false,

@@ -145,7 +145,7 @@ class SearchPanel extends Component {
 
   render() {
     return (
-        <div className="col-xs-4">
+        <div className="col-xs-3">
             <div className="panel panel-default" >
                 <div className="input-group"> 
                     <span className="input-group-addon"><i className="glyphicon glyphicon-calendar"></i></span>  
